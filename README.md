@@ -1,6 +1,6 @@
 # Happy
 
-<img align="right" src="web/src/images/landing.svg" width="35%" alt="Happy">
+<img align="right" src="web/src/images/landing.svg" width="15%" alt="Happy">
 
 ## 🔖 Sobre
 Happy é uma plataforma que se dispõe a facilitar a conexão entre usuário, e instituições de acolhimento. Nela é possível cadastrar, ou consultar os pontos 
