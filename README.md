@@ -5,10 +5,14 @@
 ## 🔖 Sobre
 Happy é uma plataforma que se dispõe a facilitar a conexão entre usuário, e instituições de acolhimento. Nela é possível cadastrar, ou consultar os pontos 
 já registrados no mapa.
-<br><br><br><br><br><br>
-<div> 
-  <img src="github/landing-web.png" alt="Página inicial" width="80%">
-</div>
+
+
+<p> 
+  <br><br><br><br><br><br>
+  <img src="github-images/landing-web.png?raw=true" alt="Página inicial" width="80%">
+  &nbsp;
+  <img src="github-images/detail-mobile.jpg?raw=true" alt="mobile" width="18%">
+</p>
 
 ## 🛠 Tecnologias
 
@@ -29,43 +33,43 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/carlos-mattos/proffy.git
+$ git clone https://github.com/carlos-mattos/happy.git
 # ou use a opção de download.
 
 # Entre na pasta server 
-$ cd proffy/server
+$ cd happy/server
 
 # Instale as dependências
-$ yarn install
+$ npm install
 
 # Rode o servidor
-$ yarn start
+$ npm run dev
 ```
 
 ### Web (Front-end)
 
 ```bash
 # Entre na pasta web com 
-$ cd proffy/web
+$ cd happy/web
 
 # Instale as dependências
-$ yarn install
+$ npm install
 
 # Rode o aplicação
-$ yarn start
+$ npm start
 ```
 
 ### Mobile (App)
 
 ```bash
 # Entre na pasta mobile com 
-$ cd proffy/mobile
+$ cd happy/mobile
 
 # Instale as dependências
-$ yarn install
+$ npm install
 
 # Rode o app
-$ yarn start
+$ npm start
 
 # Escaneie o QR Code exibido na janela do navegador.
 ```
